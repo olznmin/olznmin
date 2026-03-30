@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Hi, I'm JaeMin LEE 👋;Open+to+collaborate+%F0%9F%A4%9D" alt="안녕하세요 성장하는 개발자 이재민입니다." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Hi, I'm JaeMin LEE 👋;Open+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG"  />
   </a>
 </div>
 
